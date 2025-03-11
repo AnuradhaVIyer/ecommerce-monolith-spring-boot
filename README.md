@@ -50,8 +50,8 @@ This repository contains a **Spring Boot** eCommerce application built using a m
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-app.git
-cd ecommerce-app
+git clone https://github.com/anuradhaviyer/ecommerce-monolith-spring-boot.git
+cd ecommerce-monolith-spring-boot
 ```
 
 ### Run the Application
