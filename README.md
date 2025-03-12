@@ -82,6 +82,13 @@ http://localhost:8080
 - `GET api/payments` - Retrieve all payments
 - `POST api/payments` - Make payment
 
+### API Documentation
+
+- **JSON format**: [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
+- **YAML format**: [http://localhost:8080/v3/api-docs.yaml](http://localhost:8080/v3/api-docs.yaml)
+- **Swagger UI**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+
+
 ## 📊 H2 Database Console
 
 You can access the H2 console at:
